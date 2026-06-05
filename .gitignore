@@ -1,1 +1,5 @@
-!stage_5_data/*/.gitkeepstage_4_data/
+stage_4_data/
+
+stage_5_data/*
+!stage_5_data/*/
+!stage_5_data/*/.gitkeep
