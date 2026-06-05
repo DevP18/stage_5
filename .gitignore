@@ -1,4 +1,1 @@
-stage_5_data/cora/*
-stage_5_data/citeseer/*
-stage_5_data/pubmed/*
 !stage_5_data/*/.gitkeepstage_4_data/
